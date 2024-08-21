@@ -71,3 +71,8 @@
 ![MvC Proje Kampı ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 18_37_46](https://github.com/user-attachments/assets/5ab1f086-7adb-45a9-83bd-2b0ef812e800)
 
 
+# Vitrin Sayfası
+* Bu sayfada yazılmış bütün yazıları görüntüleyebiliyoruz
+   <br/> <br/>
+   ![MvC Proje Kampı ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 18_41_15](https://github.com/user-attachments/assets/53978f7d-78a3-4101-9e4e-0b135467849e)
+
