@@ -55,6 +55,7 @@
 ![MvC Proje Kampı ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 18_24_19](https://github.com/user-attachments/assets/d80f25c9-e792-4433-96f4-67845ae2358d)
 
 *  Bu başlığa yaz dediğimizde ise seçtiğimiz başlığa yazı yazabiliyoruz.
+*  <br/> <br/>
 ![MvC Proje Kampı ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 18_24_28](https://github.com/user-attachments/assets/f0f12266-ec76-4cc3-8f4c-de1337164c86)
 
 
