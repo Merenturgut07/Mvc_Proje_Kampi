@@ -55,8 +55,13 @@
 ![MvC Proje Kampı ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 18_24_19](https://github.com/user-attachments/assets/d80f25c9-e792-4433-96f4-67845ae2358d)
 
 *  Bu başlığa yaz dediğimizde ise seçtiğimiz başlığa yazı yazabiliyoruz.
-*  <br/> <br/>
+  <br/> <br/>
 ![MvC Proje Kampı ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 18_24_28](https://github.com/user-attachments/assets/f0f12266-ec76-4cc3-8f4c-de1337164c86)
 
+# Mesaj Kısımı
+* Bu kısımda kullanıcaya gelen mesaj ve gönderdiği mesajları görüntülüyebiliyoruz. Ayrıca yeni mesaj işlemi de gerçekleştirebiliyoruz
+![MvC Proje Kampı ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 18_30_20](https://github.com/user-attachments/assets/b1d3f9d5-7655-4784-aff1-a44b3c3e17d3)
+![MvC Proje Kampı ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 18_30_25](https://github.com/user-attachments/assets/c266412a-3b4c-4679-857b-f52d52a76f0d)
+![MvC Proje Kampı ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 18_30_33](https://github.com/user-attachments/assets/7870b255-689c-42c7-a440-536a0533841a)
 
 
