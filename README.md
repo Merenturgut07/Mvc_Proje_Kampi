@@ -97,4 +97,34 @@
 ![AdminLTE 3 _ Dashboard 3 - Profil 1 - Microsoft​ Edge 21 08 2024 19_49_59](https://github.com/user-attachments/assets/99d29d18-68ae-4711-a738-befa6c45c9a7)
 
 
+   # Admin Grafik  Kısımı
+  * Grafik bilgileri tutulmaktadır.
+     <br/> <br/>
+![AdminLTE 3 _ Dashboard 3 - Profil 1 - Microsoft​ Edge 21 08 2024 19_59_40](https://github.com/user-attachments/assets/a4b9b474-ee15-4aea-805e-a9b614be8c77)
+
+   # Admin Raporlar  Kısımı
+  * herhangi bir tabloyu istediğimiz formata (word,exel,pdf gibi...) başlıklara çevirip çıktı almamızı sağlıyor
+     <br/> <br/>
+![AdminLTE 3 _ Dashboard 3 - Profil 1 - Microsoft​ Edge 21 08 2024 20_01_16](https://github.com/user-attachments/assets/f7d1d1de-54a8-47c0-803b-0f4f0124c097)
+![AdminLTE 3 _ Dashboard 3 - Profil 1 - Microsoft​ Edge 21 08 2024 20_01_24](https://github.com/user-attachments/assets/8a171783-0d02-44a1-ba9f-39cc179356bd)
+![AdminLTE 3 _ Dashboard 3 - Profil 1 - Microsoft​ Edge 21 08 2024 20_01_36](https://github.com/user-attachments/assets/117472d6-2d2d-4d9c-b330-362e58f49090)
+
+   # Admin Yetenek Kartım  Kısımı
+  * Admin Yetenk Bilgilerinin tutlduğu ayrı bir sayfa
+     <br/> <br/>
+![AdminLTE 3 _ Dashboard 3 - Profil 1 - Microsoft​ Edge 21 08 2024 20_04_10](https://github.com/user-attachments/assets/a4bad28a-b9e7-437e-94fb-4c37c285da6f)
+
+   # Admin Galeri  Kısımı
+  * Admin Galeri tutlduğu ayrı bir sayfa
+     <br/> <br/>
+     ![AdminLTE 3 _ Dashboard 3 - Profil 1 - Microsoft​ Edge 21 08 2024 20_05_24](https://github.com/user-attachments/assets/3a675845-7fbd-4490-9c39-f26c69195ee9)
+![AdminLTE 3 _ Dashboard 3 - Profil 1 - Microsoft​ Edge 21 08 2024 20_05_33](https://github.com/user-attachments/assets/a00dd03d-81fb-4757-a83d-0f87737fd5ca)
+
+   # Admin SweatAlert  Kısımı
+     <br/> <br/>
+![AdminLTE 3 _ Dashboard 3 - Profil 1 - Microsoft​ Edge 21 08 2024 20_06_40](https://github.com/user-attachments/assets/c2815c76-d85a-486a-884f-6509ce89fa3c)
+
+
+# Çıkış Yapma İşlemi 
+* Çıkış Yap yazısına tıklandığında giriş paneline geri atılıyor ve kullanıcıdan sisteme yeniden girilmesi isteniyor
 
