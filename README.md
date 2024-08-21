@@ -32,17 +32,17 @@
 
 # Kullanıcı Giriş Paneli 
 * Sisteme kayıtlı olan  kullanıcıların gmail ve şifre ile sisteme giriş yapabilmektedirler. Giriş Yapılıdğında giriş yapan kullanıcının bilgileri gelmektedir.
-* <br/> <br/>
+  <br/> <br/>
 ![MvC Proje Kampı ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 15_16_41](https://github.com/user-attachments/assets/7947e4dd-49c2-4960-9b6d-78dcb03e0e30)
 
 # Profilim Kısımı 
 * Profil bilgileri güncellenmektedir.
-* <br/> <br/>
+ <br/> <br/>
 ![Recognize Personal Category Bootstrap Responsive Template _ Home __ W3layouts ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 18_19_46](https://github.com/user-attachments/assets/45f893fd-6a13-4e81-8f53-659b39bc22de)
 
 # Başlık Kısımı 
 * Başlık bilgileri ekleme,silme ve  güncellenme işlemleri yapılmaktadır.
-* <br/> <br/>
+ <br/> <br/>
 ![Recognize Personal Category Bootstrap Responsive Template _ Home __ W3layouts ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 18_21_41](https://github.com/user-attachments/assets/367a17ae-3694-4654-808d-9748074386ef)
 ![Recognize Personal Category Bootstrap Responsive Template _ Home __ W3layouts ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 18_21_52](https://github.com/user-attachments/assets/cfafb77b-1ad6-4500-b4f5-f2e5e104cfdf)
 ![Recognize Personal Category Bootstrap Responsive Template _ Home __ W3layouts ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 18_22_15](https://github.com/user-attachments/assets/684ce001-c0bf-47ff-a536-85ed47c4713f)
@@ -61,7 +61,7 @@
 
 # Mesaj Kısımı
 * Bu kısımda kullanıcaya gelen mesaj ve gönderdiği mesajları görüntülüyebiliyoruz. Ayrıca yeni mesaj işlemi de gerçekleştirebiliyoruz
-*   <br/> <br/>
+   <br/> <br/>
 ![MvC Proje Kampı ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 18_30_20](https://github.com/user-attachments/assets/b1d3f9d5-7655-4784-aff1-a44b3c3e17d3)
 ![MvC Proje Kampı ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 18_30_25](https://github.com/user-attachments/assets/c266412a-3b4c-4679-857b-f52d52a76f0d)
 ![MvC Proje Kampı ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 18_30_33](https://github.com/user-attachments/assets/7870b255-689c-42c7-a440-536a0533841a)
@@ -75,5 +75,26 @@
 # Vitrin Sayfası
 * Bu sayfada yazılmış bütün yazıları görüntüleyebiliyoruz
    <br/> <br/>
-   ![MvC Proje Kampı ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 18_41_15](https://github.com/user-attachments/assets/53978f7d-78a3-4101-9e4e-0b135467849e)
+  ![MvC Proje Kampı ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 18_41_15](https://github.com/user-attachments/assets/53978f7d-78a3-4101-9e4e-0b135467849e)
+
+
+  # Admin Kısımı
+  * Sisteme giren admin bütün girilen bilgileri girmektedir.
+     <br/> <br/>
+    ![Mvc Kamp Login - Profil 1 - Microsoft​ Edge 21 08 2024 19_46_15](https://github.com/user-attachments/assets/dc7f6d74-41c1-4549-8ba9-e8fde9205906)
+
+   # Admin Başlık  Kısımı
+  * Başlık silme ,ekleme ve güncelleme işlemleri yapılmaktadır
+     <br/> <br/>
+     ![Mvc Kamp Login - Profil 1 - Microsoft​ Edge 21 08 2024 19_47_55](https://github.com/user-attachments/assets/fecd2ec8-137b-40df-9ac5-029a4d6ac90a)
+![Mvc Kamp Login - Profil 1 - Microsoft​ Edge 21 08 2024 19_48_02](https://github.com/user-attachments/assets/6ea713c0-381e-440d-94f8-889ffb9f17ce)
+![Mvc Kamp Login - Profil 1 - Microsoft​ Edge 21 08 2024 19_48_10](https://github.com/user-attachments/assets/fd79eb4b-1b55-41e8-8601-6a31d11d11b0)
+
+   # Admin Yazarlar  Kısımı
+  * Yazar silme ,ekleme ve güncelleme işlemleri yapılmaktadır
+     <br/> <br/>
+![AdminLTE 3 _ Dashboard 3 - Profil 1 - Microsoft​ Edge 21 08 2024 19_49_52](https://github.com/user-attachments/assets/26e57e80-8693-467a-a078-be40aca2d772)
+![AdminLTE 3 _ Dashboard 3 - Profil 1 - Microsoft​ Edge 21 08 2024 19_49_59](https://github.com/user-attachments/assets/99d29d18-68ae-4711-a738-befa6c45c9a7)
+
+
 
