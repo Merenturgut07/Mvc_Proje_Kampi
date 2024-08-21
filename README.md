@@ -125,6 +125,11 @@
 ![AdminLTE 3 _ Dashboard 3 - Profil 1 - Microsoft​ Edge 21 08 2024 20_06_40](https://github.com/user-attachments/assets/c2815c76-d85a-486a-884f-6509ce89fa3c)
 
 
+# Hata Sayfası
+![404 HTML Tempalte by Colorlib ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 20_23_44](https://github.com/user-attachments/assets/9d39391c-bb37-4af9-9618-6d87b79cc5f1)
+
+
+
 # Çıkış Yapma İşlemi 
 * Çıkış Yap yazısına tıklandığında giriş paneline geri atılıyor ve kullanıcıdan sisteme yeniden girilmesi isteniyor
 
