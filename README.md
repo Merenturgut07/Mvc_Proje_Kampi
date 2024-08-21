@@ -47,14 +47,15 @@
 ![Recognize Personal Category Bootstrap Responsive Template _ Home __ W3layouts ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 18_22_15](https://github.com/user-attachments/assets/684ce001-c0bf-47ff-a536-85ed47c4713f)
 
 # Tüm Başlık Kısımı 
-
-![MvC Proje Kampı ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 18_23_49](https://github.com/user-attachments/assets/9196fdca-c1f4-47fc-bbff-958d0f542a8a)
 * Bu kısımda  yazılan bütün başlıklar karşımıza çıkmaktadır.  
-* <br/> <br/>
-![MvC Proje Kampı ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 18_24_19](https://github.com/user-attachments/assets/d80f25c9-e792-4433-96f4-67845ae2358d)
+ <br/> <br/>
+![MvC Proje Kampı ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 18_23_49](https://github.com/user-attachments/assets/9196fdca-c1f4-47fc-bbff-958d0f542a8a)
 * Bu kısımda Yazılara tıkladığımızda o başlık ile ilgili önceden yazılmış bütün başlıklar karşımıza çıkmaktadır .  
-* <br/> <br/>
-![MvC Proje Kampı ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 18_24_28](https://github.com/user-attachments/assets/f0f12266-ec76-4cc3-8f4c-de1337164c86)
+<br/> <br/>
+![MvC Proje Kampı ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 18_24_19](https://github.com/user-attachments/assets/d80f25c9-e792-4433-96f4-67845ae2358d)
+
 *  Bu başlığa yaz dediğimizde ise seçtiğimiz başlığa yazı yazabiliyoruz.
+![MvC Proje Kampı ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 18_24_28](https://github.com/user-attachments/assets/f0f12266-ec76-4cc3-8f4c-de1337164c86)
+
 
 
