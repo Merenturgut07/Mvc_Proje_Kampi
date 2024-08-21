@@ -40,9 +40,18 @@
     <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
       <HintPath>..\packages\EntityFramework.6.5.1\lib\net45\EntityFramework.SqlServer.dll</HintPath>
     </Reference>
+    <Reference Include="FluentValidation, Version=11.0.0.0, Culture=neutral, PublicKeyToken=7de548da2fbae0f0, processorArchitecture=MSIL">
+      <HintPath>..\packages\FluentValidation.11.9.2\lib\netstandard2.0\FluentValidation.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=4.0.4.1, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.4.5.3\lib\net461\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Threading.Tasks.Extensions.4.5.4\lib\net461\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -51,8 +60,35 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Abstract\IAboutService.cs" />
+    <Compile Include="Abstract\IAdminInService.cs" />
+    <Compile Include="Abstract\ICategoryService.cs" />
+    <Compile Include="Abstract\IContactService.cs" />
+    <Compile Include="Abstract\IContentService.cs" />
+    <Compile Include="Abstract\IHeadingService.cs" />
+    <Compile Include="Abstract\IImageFileService.cs" />
+    <Compile Include="Abstract\IMessageService.cs" />
+    <Compile Include="Abstract\IWriterService.cs" />
+    <Compile Include="Abstract\IYetenekKartımService.cs" />
+    <Compile Include="Abstract\IWriterLoginService.cs" />
+    <Compile Include="Abstract\ITemaAnaSayfaService.cs" />
+    <Compile Include="Concrate\AboutManager.cs" />
+    <Compile Include="Concrate\AdminManager.cs" />
     <Compile Include="Concrate\CategoryManager.cs" />
+    <Compile Include="Concrate\ContactManager.cs" />
+    <Compile Include="Concrate\ContentManager.cs" />
+    <Compile Include="Concrate\HeadingManager.cs" />
+    <Compile Include="Concrate\ImageFileManager.cs" />
+    <Compile Include="Concrate\MessageManager.cs" />
+    <Compile Include="Concrate\TemaAnaSayfaManager.cs" />
+    <Compile Include="Concrate\WriterLoginManager.cs" />
+    <Compile Include="Concrate\WriterManager.cs" />
+    <Compile Include="Concrate\YetenekKartımManager.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ValidationRules\CategoryValidator.cs" />
+    <Compile Include="ValidationRules\ContactValidator.cs" />
+    <Compile Include="ValidationRules\MessageValidator.cs" />
+    <Compile Include="ValidationRules\WriterValidator.cs" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>

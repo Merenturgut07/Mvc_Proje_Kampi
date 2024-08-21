@@ -52,18 +52,94 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Abstract\IAboutDal.cs" />
+    <Compile Include="Abstract\IAdminDal.cs" />
     <Compile Include="Abstract\ICategoryDal.cs" />
     <Compile Include="Abstract\IContactDal.cs" />
     <Compile Include="Abstract\IContentDal.cs" />
     <Compile Include="Abstract\IHeadingDal.cs" />
+    <Compile Include="Abstract\IImageFileDal.cs" />
+    <Compile Include="Abstract\IMessageDal.cs" />
     <Compile Include="Abstract\IRepository.cs" />
+    <Compile Include="Abstract\ITemaAnaSayfaDal.cs" />
     <Compile Include="Abstract\IWriterDal.cs" />
+    <Compile Include="Abstract\IYetenekKartımDal.cs" />
     <Compile Include="Concrete\Context.cs" />
     <Compile Include="Concrete\Repositories\CategoryRepository.cs" />
     <Compile Include="Concrete\Repositories\GenericRepository.cs" />
+    <Compile Include="EntityFramework\EfAboutDal.cs" />
+    <Compile Include="EntityFramework\EfAdminDal.cs" />
+    <Compile Include="EntityFramework\EfCategoryDal.cs" />
+    <Compile Include="EntityFramework\EfContactDal.cs" />
+    <Compile Include="EntityFramework\EfContentDal.cs" />
+    <Compile Include="EntityFramework\EfHeadingDal.cs" />
+    <Compile Include="EntityFramework\EfImageFileDal.cs" />
+    <Compile Include="EntityFramework\EfMessageDal.cs" />
+    <Compile Include="EntityFramework\EfTemaAnaSayfaDal.cs" />
+    <Compile Include="EntityFramework\EfWriterDal.cs" />
+    <Compile Include="EntityFramework\EfYetenekKartımDal.cs" />
     <Compile Include="Migrations\202407201430359_mig1.cs" />
     <Compile Include="Migrations\202407201430359_mig1.Designer.cs">
       <DependentUpon>202407201430359_mig1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202407311745090_mig_WriterEdit.cs" />
+    <Compile Include="Migrations\202407311745090_mig_WriterEdit.Designer.cs">
+      <DependentUpon>202407311745090_mig_WriterEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202408012158505_mig_writertitle_add.cs" />
+    <Compile Include="Migrations\202408012158505_mig_writertitle_add.Designer.cs">
+      <DependentUpon>202408012158505_mig_writertitle_add.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202408021601106_mig_imagesizechange.cs" />
+    <Compile Include="Migrations\202408021601106_mig_imagesizechange.Designer.cs">
+      <DependentUpon>202408021601106_mig_imagesizechange.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202408021629494_mig_writer_aktif_pasif.cs" />
+    <Compile Include="Migrations\202408021629494_mig_writer_aktif_pasif.Designer.cs">
+      <DependentUpon>202408021629494_mig_writer_aktif_pasif.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202408022000047_mig_contentstatusadd.cs" />
+    <Compile Include="Migrations\202408022000047_mig_contentstatusadd.Designer.cs">
+      <DependentUpon>202408022000047_mig_contentstatusadd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202408022004172_mig_heading_status_add.cs" />
+    <Compile Include="Migrations\202408022004172_mig_heading_status_add.Designer.cs">
+      <DependentUpon>202408022004172_mig_heading_status_add.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202408051839598_mig_add_messageclass_.cs" />
+    <Compile Include="Migrations\202408051839598_mig_add_messageclass_.Designer.cs">
+      <DependentUpon>202408051839598_mig_add_messageclass_.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202408070732565_mig_contactadddate.cs" />
+    <Compile Include="Migrations\202408070732565_mig_contactadddate.Designer.cs">
+      <DependentUpon>202408070732565_mig_contactadddate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202408080700197_mig_image_add.cs" />
+    <Compile Include="Migrations\202408080700197_mig_image_add.Designer.cs">
+      <DependentUpon>202408080700197_mig_image_add.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202408081306036_mig_admin_add.cs" />
+    <Compile Include="Migrations\202408081306036_mig_admin_add.Designer.cs">
+      <DependentUpon>202408081306036_mig_admin_add.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202408082029182_mig_yetenekkartımekleme.cs" />
+    <Compile Include="Migrations\202408082029182_mig_yetenekkartımekleme.Designer.cs">
+      <DependentUpon>202408082029182_mig_yetenekkartımekleme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202408082040190_mig_ykekleme_düzenleme.cs" />
+    <Compile Include="Migrations\202408082040190_mig_ykekleme_düzenleme.Designer.cs">
+      <DependentUpon>202408082040190_mig_ykekleme_düzenleme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202408090919513_migYK_SonEksikler.cs" />
+    <Compile Include="Migrations\202408090919513_migYK_SonEksikler.Designer.cs">
+      <DependentUpon>202408090919513_migYK_SonEksikler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202408200731545_mig_tema_anasayfa.cs" />
+    <Compile Include="Migrations\202408200731545_mig_tema_anasayfa.Designer.cs">
+      <DependentUpon>202408200731545_mig_tema_anasayfa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202408200740540_mig_tema_anasayfa1.cs" />
+    <Compile Include="Migrations\202408200740540_mig_tema_anasayfa1.Designer.cs">
+      <DependentUpon>202408200740540_mig_tema_anasayfa1.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -82,7 +158,53 @@
     <EmbeddedResource Include="Migrations\202407201430359_mig1.resx">
       <DependentUpon>202407201430359_mig1.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202407311745090_mig_WriterEdit.resx">
+      <DependentUpon>202407311745090_mig_WriterEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202408012158505_mig_writertitle_add.resx">
+      <DependentUpon>202408012158505_mig_writertitle_add.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202408021601106_mig_imagesizechange.resx">
+      <DependentUpon>202408021601106_mig_imagesizechange.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202408021629494_mig_writer_aktif_pasif.resx">
+      <DependentUpon>202408021629494_mig_writer_aktif_pasif.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202408022000047_mig_contentstatusadd.resx">
+      <DependentUpon>202408022000047_mig_contentstatusadd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202408022004172_mig_heading_status_add.resx">
+      <DependentUpon>202408022004172_mig_heading_status_add.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202408051839598_mig_add_messageclass_.resx">
+      <DependentUpon>202408051839598_mig_add_messageclass_.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202408070732565_mig_contactadddate.resx">
+      <DependentUpon>202408070732565_mig_contactadddate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202408080700197_mig_image_add.resx">
+      <DependentUpon>202408080700197_mig_image_add.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202408081306036_mig_admin_add.resx">
+      <DependentUpon>202408081306036_mig_admin_add.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202408082029182_mig_yetenekkartımekleme.resx">
+      <DependentUpon>202408082029182_mig_yetenekkartımekleme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202408082040190_mig_ykekleme_düzenleme.resx">
+      <DependentUpon>202408082040190_mig_ykekleme_düzenleme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202408090919513_migYK_SonEksikler.resx">
+      <DependentUpon>202408090919513_migYK_SonEksikler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202408200731545_mig_tema_anasayfa.resx">
+      <DependentUpon>202408200731545_mig_tema_anasayfa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202408200740540_mig_tema_anasayfa1.resx">
+      <DependentUpon>202408200740540_mig_tema_anasayfa1.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
     <PropertyGroup>

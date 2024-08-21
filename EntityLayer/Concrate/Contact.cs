@@ -26,8 +26,11 @@ namespace EntityLayer.Concrate
 			public string Subject { get; set; }
 
 
+        public DateTime ContactDate { get; set; }
 
-			[StringLength(1000)]
+
+
+        [StringLength(1000)]
 			public string Message { get; set; }
 
 	}

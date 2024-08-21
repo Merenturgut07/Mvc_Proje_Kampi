@@ -21,6 +21,7 @@ namespace EntityLayer.Concrate
 
 			public DateTime ContentDate { get; set; }
 
+		public bool ContentStatus { get; set; }
 
 
 			//Heading
