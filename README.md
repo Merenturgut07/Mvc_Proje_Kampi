@@ -15,11 +15,6 @@
 *  Rolleme işlemi (Sisteme authentication  olan kullanıcının bilgilerinin gelmesi)
 *  Sweat Alert
 
-# Kullanıcı Giriş Paneli 
-* Sisteme kayıtlı olan  kullanıcıların gmail ve şifre ile sisteme giriş yapabilmektedirler.
-* <br/> <br/>
-![MvC Proje Kampı ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 15_16_41](https://github.com/user-attachments/assets/7947e4dd-49c2-4960-9b6d-78dcb03e0e30)
-
 
 # Web Sitesi
  <br/> <br/>
@@ -32,4 +27,30 @@
 ![Recognize Personal Category Bootstrap Responsive Template _ Home __ W3layouts ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 18_17_40](https://github.com/user-attachments/assets/a940de0f-aa92-4e7c-a606-0dd99e2e3ce5)
 ![Recognize Personal Category Bootstrap Responsive Template _ Home __ W3layouts ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 18_17_50](https://github.com/user-attachments/assets/88f420ac-f172-47de-8787-3f50aa9c6f1e)
 ![Recognize Personal Category Bootstrap Responsive Template _ Home __ W3layouts ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 18_18_06](https://github.com/user-attachments/assets/37dd0c3a-14c6-49fb-906a-3b96cd6e0d47)
+
+
+# Kullanıcı Giriş Paneli 
+* Sisteme kayıtlı olan  kullanıcıların gmail ve şifre ile sisteme giriş yapabilmektedirler. Giriş Yapılıdğında giriş yapan kullanıcının bilgileri gelmektedir.
+* <br/> <br/>
+![MvC Proje Kampı ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 15_16_41](https://github.com/user-attachments/assets/7947e4dd-49c2-4960-9b6d-78dcb03e0e30)
+
+# Profilim Kısımı 
+* Profil bilgileri güncellenmektedir.
+* <br/> <br/>
+![Recognize Personal Category Bootstrap Responsive Template _ Home __ W3layouts ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 18_19_46](https://github.com/user-attachments/assets/45f893fd-6a13-4e81-8f53-659b39bc22de)
+
+# Başlık Kısımı 
+* Başlık bilgileri ekleme,silme ve  güncellenme işlemleri yapılmaktadır.
+* <br/> <br/>
+![Recognize Personal Category Bootstrap Responsive Template _ Home __ W3layouts ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 18_21_41](https://github.com/user-attachments/assets/367a17ae-3694-4654-808d-9748074386ef)
+![Recognize Personal Category Bootstrap Responsive Template _ Home __ W3layouts ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 18_21_52](https://github.com/user-attachments/assets/cfafb77b-1ad6-4500-b4f5-f2e5e104cfdf)
+![Recognize Personal Category Bootstrap Responsive Template _ Home __ W3layouts ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 18_22_15](https://github.com/user-attachments/assets/684ce001-c0bf-47ff-a536-85ed47c4713f)
+
+# Tüm Başlık Kısımı 
+* Bu kısımda  yazılan bütün başlıklar karşımıza çıkmaktadır.  
+* <br/> <br/>
+![MvC Proje Kampı ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 18_23_49](https://github.com/user-attachments/assets/9196fdca-c1f4-47fc-bbff-958d0f542a8a)
+![MvC Proje Kampı ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 18_24_19](https://github.com/user-attachments/assets/d80f25c9-e792-4433-96f4-67845ae2358d)
+![MvC Proje Kampı ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 18_24_28](https://github.com/user-attachments/assets/f0f12266-ec76-4cc3-8f4c-de1337164c86)
+
 
