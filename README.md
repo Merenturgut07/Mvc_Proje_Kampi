@@ -14,6 +14,7 @@
 *  404 Sayfa Yapısı
 *  Rolleme işlemi (Sisteme authentication  olan kullanıcının bilgilerinin gelmesi)
 *  Sweat Alert
+*  Raporlama (herhangi bir tabloyu istediğimiz formata (word,exel,pdf gibi...) başlıklara çevirip çıktı almamızı sağlıyor)
 
 
 # Web Sitesi
