@@ -60,8 +60,14 @@
 
 # Mesaj Kısımı
 * Bu kısımda kullanıcaya gelen mesaj ve gönderdiği mesajları görüntülüyebiliyoruz. Ayrıca yeni mesaj işlemi de gerçekleştirebiliyoruz
+*   <br/> <br/>
 ![MvC Proje Kampı ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 18_30_20](https://github.com/user-attachments/assets/b1d3f9d5-7655-4784-aff1-a44b3c3e17d3)
 ![MvC Proje Kampı ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 18_30_25](https://github.com/user-attachments/assets/c266412a-3b4c-4679-857b-f52d52a76f0d)
 ![MvC Proje Kampı ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 18_30_33](https://github.com/user-attachments/assets/7870b255-689c-42c7-a440-536a0533841a)
+
+# Mesajlarım
+* Bu kısımda sisteme giriş yapan kullanıcının yazdığı yazıları görüntüleyebiliyoruz.
+  <br/> <br/>
+![MvC Proje Kampı ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 18_37_46](https://github.com/user-attachments/assets/5ab1f086-7adb-45a9-83bd-2b0ef812e800)
 
 
