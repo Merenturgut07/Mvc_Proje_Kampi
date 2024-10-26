@@ -36,7 +36,7 @@
 ![MvC Proje Kampı ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 15_16_41](https://github.com/user-attachments/assets/7947e4dd-49c2-4960-9b6d-78dcb03e0e30)
 
 # Profilim Kısımı 
-* Profil bilgileri güncellenmektedir.
+*Sisteme giriş yapan kullanıcının bilgileri ,bu alanda  profil bilgilerini güncellenmektedir.
  <br/> <br/>
 ![Recognize Personal Category Bootstrap Responsive Template _ Home __ W3layouts ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 18_19_46](https://github.com/user-attachments/assets/45f893fd-6a13-4e81-8f53-659b39bc22de)
 
