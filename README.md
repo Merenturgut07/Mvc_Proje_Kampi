@@ -135,6 +135,8 @@
 # Hata Sayfası
 ![404 HTML Tempalte by Colorlib ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 20_23_44](https://github.com/user-attachments/assets/9d39391c-bb37-4af9-9618-6d87b79cc5f1)
 
+# Projede Kullanılan Tablolar
+![DESKTOP-FCK5R8M_SQLEXPRESS DbMvcKamp - Diagram_1_ - Microsoft SQL Server Management Studio 26 10 2024 11_26_27](https://github.com/user-attachments/assets/235625b4-1ae6-4929-a90e-66b76c7c3e2f)
 
 
 # Çıkış Yapma İşlemi 
