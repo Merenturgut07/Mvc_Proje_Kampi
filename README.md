@@ -36,12 +36,12 @@
 ![MvC Proje Kampı ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 15_16_41](https://github.com/user-attachments/assets/7947e4dd-49c2-4960-9b6d-78dcb03e0e30)
 
 # Profilim Kısımı 
-* Profil bilgileri güncellenmektedir.
+* Sisteme giriş yapan kullanıcının bilgileri ,bu alanda  profil bilgilerini güncellenmektedir.
  <br/> <br/>
 ![Recognize Personal Category Bootstrap Responsive Template _ Home __ W3layouts ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 18_19_46](https://github.com/user-attachments/assets/45f893fd-6a13-4e81-8f53-659b39bc22de)
 
 # Başlık Kısımı 
-* Başlık bilgileri ekleme,silme ve  güncellenme işlemleri yapılmaktadır.
+* Sisteme giriş yapan kullanıcının yazdığı başlılar. Kullanıcı bu alanda başlık bilgilerini  ekleme,silme ve  güncellenme işlemleri yapabilmektedir.
  <br/> <br/>
 ![Recognize Personal Category Bootstrap Responsive Template _ Home __ W3layouts ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 18_21_41](https://github.com/user-attachments/assets/367a17ae-3694-4654-808d-9748074386ef)
 ![Recognize Personal Category Bootstrap Responsive Template _ Home __ W3layouts ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 18_21_52](https://github.com/user-attachments/assets/cfafb77b-1ad6-4500-b4f5-f2e5e104cfdf)
@@ -66,7 +66,7 @@
 ![MvC Proje Kampı ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 18_30_25](https://github.com/user-attachments/assets/c266412a-3b4c-4679-857b-f52d52a76f0d)
 ![MvC Proje Kampı ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 18_30_33](https://github.com/user-attachments/assets/7870b255-689c-42c7-a440-536a0533841a)
 
-# Mesajlarım
+# Yazılarım
 * Bu kısımda sisteme giriş yapan kullanıcının yazdığı yazıları görüntüleyebiliyoruz.
   <br/> <br/>
 ![MvC Proje Kampı ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 18_37_46](https://github.com/user-attachments/assets/5ab1f086-7adb-45a9-83bd-2b0ef812e800)
@@ -78,7 +78,7 @@
   ![MvC Proje Kampı ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 18_41_15](https://github.com/user-attachments/assets/53978f7d-78a3-4101-9e4e-0b135467849e)
 
 
-  # Admin Kısımı
+  # Admin Giriş Kısımı
   * Sisteme giren admin bütün girilen bilgileri girmektedir.
      <br/> <br/>
     ![Mvc Kamp Login - Profil 1 - Microsoft​ Edge 21 08 2024 19_46_15](https://github.com/user-attachments/assets/dc7f6d74-41c1-4549-8ba9-e8fde9205906)
@@ -124,10 +124,19 @@
      <br/> <br/>
 ![AdminLTE 3 _ Dashboard 3 - Profil 1 - Microsoft​ Edge 21 08 2024 20_06_40](https://github.com/user-attachments/assets/c2815c76-d85a-486a-884f-6509ce89fa3c)
 
+# Admin Yetkilendirme İşlemi
+*Yeni admin girişi , admin yetkisnin değiştirilmesi ,admin silme işlemleri yapılmaktadır  
+<br/> <br/>
+![AdminLTE 3 _ Dashboard 3 ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 26 10 2024 11_18_48](https://github.com/user-attachments/assets/3b95de31-8d7c-4663-81c1-9b37c3a7642b)
+![AdminLTE 3 _ Dashboard 3 ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 26 10 2024 11_22_06](https://github.com/user-attachments/assets/f9e765bd-0d42-4bea-9419-6e1b90b4dce3)
+![AdminLTE 3 _ Dashboard 3 ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 26 10 2024 11_19_01](https://github.com/user-attachments/assets/ec1cdaea-7b32-4b54-b49d-bc2adf93198d)
+
 
 # Hata Sayfası
 ![404 HTML Tempalte by Colorlib ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 20_23_44](https://github.com/user-attachments/assets/9d39391c-bb37-4af9-9618-6d87b79cc5f1)
 
+# Projede Kullanılan Tablolar
+![DESKTOP-FCK5R8M_SQLEXPRESS DbMvcKamp - Diagram_1_ - Microsoft SQL Server Management Studio 26 10 2024 11_26_27](https://github.com/user-attachments/assets/235625b4-1ae6-4929-a90e-66b76c7c3e2f)
 
 
 # Çıkış Yapma İşlemi 
