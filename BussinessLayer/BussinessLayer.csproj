@@ -67,6 +67,7 @@
     <Compile Include="Abstract\IContentService.cs" />
     <Compile Include="Abstract\IHeadingService.cs" />
     <Compile Include="Abstract\IImageFileService.cs" />
+    <Compile Include="Abstract\ILoginService.cs" />
     <Compile Include="Abstract\IMessageService.cs" />
     <Compile Include="Abstract\IWriterService.cs" />
     <Compile Include="Abstract\IYetenekKartımService.cs" />
@@ -79,6 +80,7 @@
     <Compile Include="Concrate\ContentManager.cs" />
     <Compile Include="Concrate\HeadingManager.cs" />
     <Compile Include="Concrate\ImageFileManager.cs" />
+    <Compile Include="Concrate\LoginManager.cs" />
     <Compile Include="Concrate\MessageManager.cs" />
     <Compile Include="Concrate\TemaAnaSayfaManager.cs" />
     <Compile Include="Concrate\WriterLoginManager.cs" />

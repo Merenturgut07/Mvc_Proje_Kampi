@@ -24,18 +24,31 @@ namespace BussinessLayer.Concrate
             return _messageDal.Get(x => x.MessageId == id);
         }
 
+        //public List<Message> GetMessageListInbox()
+        //{
+        //    return _messageDal.List(x => x.ReciverMail == "admin2@gmail.com");
+        //}
+
+
+        //public List<Message> GetMessageListSentbox()
+        //{
+        //    return _messageDal.List(x => x.SenderMail == "admin2@gmail.com");
+        //}
+
+
         public List<Message> GetMessageListInbox(string p)
         {
-            return _messageDal.List(x => x.ReciverMail== p);
+            return _messageDal.List(x => x.ReciverMail == p);
         }
+
 
 
         public List<Message> GetMessageListSentbox(string p)
         {
-            return _messageDal.List(x => x.SenderMail ==p); 
+            return _messageDal.List(x => x.SenderMail == p);
         }
 
-        public void MessageAdd(Message message)
+		public void MessageAdd(Message message)
         {
             _messageDal.Insert(message);
         }

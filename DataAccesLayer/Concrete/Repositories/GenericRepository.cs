@@ -21,7 +21,7 @@ namespace DataAccesLayer.Concrete.Repositories
         }
 
 
-        public void Add(T p)
+		public void Add(T p)
 		{
 			throw new NotImplementedException();
 		}

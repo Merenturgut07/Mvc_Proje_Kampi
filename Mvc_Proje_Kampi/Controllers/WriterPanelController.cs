@@ -129,9 +129,9 @@ namespace Mvc_Proje_Kampi.Controllers
 
 
 
-		public ActionResult AllHeading()
+		public ActionResult AllHeading(int p =1)
 		{
-			var heading = hm.GetList().ToPagedList(1, 4);
+			var heading = hm.GetList().ToPagedList(p, 4);
 			return View(heading);
 		}
 	}

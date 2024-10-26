@@ -9,7 +9,10 @@ namespace Mvc_Proje_Kampi.Roles
 {
 	public class AdminRoleProvider : RoleProvider
 	{
-		public override string ApplicationName { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+		public override string ApplicationName
+		{
+			get => throw new NotImplementedException(); set => throw new NotImplementedException();
+		}
 
 		public override void AddUsersToRoles(string[] usernames, string[] roleNames)
 		{

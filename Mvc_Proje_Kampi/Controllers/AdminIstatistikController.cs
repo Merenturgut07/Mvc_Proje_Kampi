@@ -10,11 +10,9 @@ namespace Mvc_Proje_Kampi.Controllers
 {
     public class AdminIstatistikController : Controller
     {
-		// GET: AdminIstatistik
 		public ActionResult Index()
         {
-			//ViewBag.categoryCount = cm
 			return View();
-        }
+		}
     }
 }

@@ -9,32 +9,29 @@ namespace EntityLayer.Concrate
 {
 	public class Content
 	{
-			[Key]
+		[Key]
+		public int ContentId { get; set; }
 
 
+		[StringLength(1000)]
+		public string ContentValue { get; set; }
 
-			public int ContentId { get; set; }
-
-
-			[StringLength(1000)]
-			public string ContentValue { get; set; }
-
-			public DateTime ContentDate { get; set; }
+		public DateTime ContentDate { get; set; }
 
 		public bool ContentStatus { get; set; }
 
 
-			//Heading
-			public int HeadingId { get; set; }
-			public virtual Heading Heading { get; set; }
+		//Heading
+		public int HeadingId { get; set; }
+		public virtual Heading Heading { get; set; }
 
 
 
-			//writer
-			public int? WriterId { get; set; }
-			public virtual Writer Writer { get; set; }
+		//writer
+		public int? WriterId { get; set; }
+		public virtual Writer Writer { get; set; }
 
-		
+
 
 
 	}

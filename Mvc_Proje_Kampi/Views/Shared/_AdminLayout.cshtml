@@ -57,7 +57,7 @@ to get the desired effect
                 <nav class="mt-2">
                     <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
                         <!-- Add icons to the links using the .nav-icon class
-    with font-awesome or any other icon font library -->
+                        with font-awesome or any other icon font library -->
                         <li class="nav-item has-treeview">
                             <a href="/Tema/Index/" class="nav-link">
                                 <i class="nav-icon fas fa-book"></i>
@@ -66,164 +66,168 @@ to get the desired effect
                                 </p>
                             </a>
 
-                        <li class="nav-item has-treeview ">
-                            <a href="/AdminCategory/Index/" class="nav-link">
-                                <i class="nav-icon fas fa-tachometer-alt"></i>
-                                <p>
-                                    Kategoriler
-                                </p>
-                            </a>
-                        </li>
-                        <li class="nav-item">
-                            <a href="/Heading/Index/" class="nav-link">
-                                <i class="nav-icon fas fa-th"></i>
-                                <p>
-                                    Başlıklar
-                                </p>
-                            </a>
-                        </li>
-                        <li class="nav-item has-treeview">
-                            <a href="/Writer/Index/" class="nav-link">
-                                <i class="nav-icon fas fa-copy"></i>
-                                <p>
-                                    Yazarlar
-                                </p>
-                            </a>
-                        </li>
+                            @*@if (User.IsInRole("B"))
+                            {*@
+                            <li class="nav-item has-treeview ">
+                                <a href="/AdminCategory/Index/" class="nav-link">
+                                    <i class="nav-icon fas fa-tachometer-alt"></i>
+                                    <p>
+                                        Kategoriler
+                                    </p>
+                                </a>
+                            </li>
+                        @*}*@
 
-                        @*<li class="nav-item has-treeview">
-                            <a href="/Writer/Index/" class="nav-link">
-                                <i class="nav-icon fas fa-book-reader"></i>
-                                <p>
-                                    Yazılar
-                                </p>
-                            </a>
-                        </li>*@
+                            <li class="nav-item">
+                                <a href="/Heading/Index/" class="nav-link">
+                                    <i class="nav-icon fas fa-th"></i>
+                                    <p>
+                                        Başlıklar
+                                    </p>
+                                </a>
+                            </li>
+                            <li class="nav-item has-treeview">
+                                <a href="/Writer/Index/" class="nav-link">
+                                    <i class="nav-icon fas fa-copy"></i>
+                                    <p>
+                                        Yazarlar
+                                    </p>
+                                </a>
+                            </li>
 
-                    <li class="nav-item has-treeview">
-                        <a href="/Chart/Index/" class="nav-link">
-                            <i class="nav-icon fas fa-chart-pie"></i>
-                            <p>
-                                Grafikler
-                                <i class="right fas fa-angle-left"></i>
-                            </p>
-                        </a>
-                    </li>
-                        <li class="nav-item has-treeview">
-                            <a href="/About/Index/" class="nav-link">
-                                <i class="nav-icon fas fa-tree"></i>
-                                <p>
-                                    Hakkımızda
-                                </p>
-                            </a>
-                        </li>
+                            @*<li class="nav-item has-treeview">
+                                    <a href="/Writer/Index/" class="nav-link">
+                                        <i class="nav-icon fas fa-book-reader"></i>
+                                        <p>
+                                            Yazılar
+                                        </p>
+                                    </a>
+                                </li>*@
 
-                        <li class="nav-item has-treeview">
-                            <a href="/Heading/HeadingReport/" class="nav-link">
-                                <i class="nav-icon fas fa-bars"></i>
-                                <p>
-                                    Raporlar
-                                </p>
-                            </a>
-                        </li>
+                            <li class="nav-item has-treeview">
+                                <a href="/Chart/Index/" class="nav-link">
+                                    <i class="nav-icon fas fa-chart-pie"></i>
+                                    <p>
+                                        Grafikler
+                                        <i class="right fas fa-angle-left"></i>
+                                    </p>
+                                </a>
+                            </li>
+                            <li class="nav-item has-treeview">
+                                <a href="/About/Index/" class="nav-link">
+                                    <i class="nav-icon fas fa-tree"></i>
+                                    <p>
+                                        Hakkımızda
+                                    </p>
+                                </a>
+                            </li>
 
-
-                        <li class="nav-item has-treeview">
-                            <a href="/Contact/Index/" class="nav-link">
-                                <i class="nav-icon fas fa-edit"></i>
-                                <p>
-                                    İletişim & Mesajlar
-                                </p>
-                            </a>
-
-                        </li>
-                        <li class="nav-item has-treeview">
-                            <a href="/YetenekKartım/Index/" class="nav-link">
-                                <i class="nav-icon fas fa-table"></i>
-                                <p>
-                                    Yetenek Kartım
-                                </p>
-                            </a>
-
-                        </li>
-                        <li class="nav-item">
-                            <a href="/Authorization/Index/" class="nav-link">
-                                <i class="nav-icon fas fa-calendar-alt"></i>
-                                <p>
-                                    Yetkilendirmeler
-                                </p>
-                            </a>
-                        </li>
-                        <li class="nav-item">
-                            <a href="/Galeri/Index/" class="nav-link">
-                                <i class="nav-icon far fa-image"></i>
-                                <p>
-                                    Galeri
-                                </p>
-                            </a>
-                        </li>
-
-                        <li class="nav-item has-treeview">
-                            <a href="/Test/SweatAlert/" class="nav-link">
-                                <i class="nav-icon far fa-map"></i>
-                                <p>
-                                    Sweat Alert
-                                </p>
-                            </a>
-
-                        </li>
+                            <li class="nav-item has-treeview">
+                                <a href="/Heading/HeadingReport/" class="nav-link">
+                                    <i class="nav-icon fas fa-bars"></i>
+                                    <p>
+                                        Raporlar
+                                    </p>
+                                </a>
+                            </li>
 
 
-                        <li class="nav-item has-treeview">
-                            <a href="/ErrorPage/Page404/" class="nav-link">
-                                <i class="nav-icon far fa-envelope"></i>
-                                <p>
-                                    Hata Sayfaları
-                                </p>
-                            </a>
+                            <li class="nav-item has-treeview">
+                                <a href="/Contact/Index/" class="nav-link">
+                                    <i class="nav-icon fas fa-edit"></i>
+                                    <p>
+                                        İletişim & Mesajlar
+                                    </p>
+                                </a>
 
-                        </li>
-                        <li class="nav-item has-treeview">
-                            <a href="/Login/LogOut/" class="nav-link">
-                                <i class="nav-icon fas fa-door-closed"></i>
-                                <p>
-                                    Çıkış Yap
-                                </p>
-                            </a>
+                            </li>
+                            <li class="nav-item has-treeview">
+                                <a href="/YetenekKartım/Index/" class="nav-link">
+                                    <i class="nav-icon fas fa-table"></i>
+                                    <p>
+                                        Yetenek Kartım
+                                    </p>
+                                </a>
 
-                        </li>
+                            </li>
+                            <li class="nav-item">
+                                <a href="/Authorization/Index/" class="nav-link">
+                                    <i class="nav-icon fas fa-calendar-alt"></i>
+                                    <p>
+                                        Yetkilendirmeler
+                                    </p>
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="/Galeri/Index/" class="nav-link">
+                                    <i class="nav-icon far fa-image"></i>
+                                    <p>
+                                        Galeri
+                                    </p>
+                                </a>
+                            </li>
+
+                            <li class="nav-item has-treeview">
+                                <a href="/Test/SweatAlert/" class="nav-link">
+                                    <i class="nav-icon far fa-map"></i>
+                                    <p>
+                                        Sweat Alert
+                                    </p>
+                                </a>
+
+                            </li>
 
 
-                    </ul>
-                </nav>
-                <!-- /.sidebar-menu -->
+                            <li class="nav-item has-treeview">
+                                <a href="/ErrorPage/Page404/" class="nav-link">
+                                    <i class="nav-icon far fa-envelope"></i>
+                                    <p>
+                                        Hata Sayfaları
+                                    </p>
+                                </a>
+
+                            </li>
+                            <li class="nav-item has-treeview">
+                                <a href="/Login/LogOut/" class="nav-link">
+                                    <i class="nav-icon fas fa-door-closed"></i>
+                                    <p>
+                                        Çıkış Yap
+                                    </p>
+                                </a>
+
+                            </li>
+
+
+                        </ul>
+                    </nav>
+                    <!-- /.sidebar-menu -->
+                </div>
+                <!-- /.sidebar -->
+            </aside>
+            <!-- Content Wrapper. Contains page content -->
+            <div class="content-wrapper">
+                <!-- Main content -->
+                <div class="content">
+                    @RenderBody()
+                    <!-- /.container-fluid -->
+                </div>
+                <!-- /.content -->
             </div>
-            <!-- /.sidebar -->
-        </aside>
-        <!-- Content Wrapper. Contains page content -->
-        <div class="content-wrapper">
-            <!-- Main content -->
-            <div class="content">
-                @RenderBody()
-                <!-- /.container-fluid -->
-            </div>
-            <!-- /.content -->
+            <!-- /.content-wrapper -->
         </div>
-        <!-- /.content-wrapper -->
-    </div>
-    <!-- ./wrapper -->
-    <!-- REQUIRED SCRIPTS -->
-    <!-- jQuery -->
-    @*<script src="~/AdminLTE-3.0.4/plugins/jquery/jquery.min.js"></script>*@
-    <!-- Bootstrap -->
-    <script src="~/AdminLTE-3.0.4/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
-    <!-- AdminLTE -->
-    <script src="~/AdminLTE-3.0.4/dist/js/adminlte.js"></script>
-    <!-- OPTIONAL SCRIPTS -->
-    <script src="~/AdminLTE-3.0.4/plugins/chart.js/Chart.min.js"></script>
-    <script src="~/AdminLTE-3.0.4/dist/js/demo.js"></script>
-    <script src="~/AdminLTE-3.0.4/dist/js/pages/dashboard3.js"></script>
-</body>
+        <!-- ./wrapper -->
+        <!-- REQUIRED SCRIPTS -->
+        <!-- jQuery -->
+        @*<script src="~/AdminLTE-3.0.4/plugins/jquery/jquery.min.js"></script>*@
+        <!-- Bootstrap -->
+        <script src="~/AdminLTE-3.0.4/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+        <!-- AdminLTE -->
+        <script src="~/AdminLTE-3.0.4/dist/js/adminlte.js"></script>
+        <!-- OPTIONAL SCRIPTS -->
+        <script src="~/AdminLTE-3.0.4/plugins/chart.js/Chart.min.js"></script>
+        <script src="~/AdminLTE-3.0.4/dist/js/demo.js"></script>
+        <script src="~/AdminLTE-3.0.4/dist/js/pages/dashboard3.js"></script>
+    </body>
 </html>
 
 
