@@ -124,6 +124,12 @@
      <br/> <br/>
 ![AdminLTE 3 _ Dashboard 3 - Profil 1 - Microsoft​ Edge 21 08 2024 20_06_40](https://github.com/user-attachments/assets/c2815c76-d85a-486a-884f-6509ce89fa3c)
 
+# Admin Yetkilendirme İşlemi
+*Yeni admin girişi , admin yetkisnin değiştirilmesi ,admin silme işlemleri yapılmaktadır  
+![AdminLTE 3 _ Dashboard 3 ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 26 10 2024 11_18_48](https://github.com/user-attachments/assets/3b95de31-8d7c-4663-81c1-9b37c3a7642b)
+![AdminLTE 3 _ Dashboard 3 ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 26 10 2024 11_18_54](https://github.com/user-attachments/assets/6e301a4b-3682-422b-8ee1-7dd5be1b2a93)
+![AdminLTE 3 _ Dashboard 3 ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 26 10 2024 11_19_01](https://github.com/user-attachments/assets/ec1cdaea-7b32-4b54-b49d-bc2adf93198d)
+
 
 # Hata Sayfası
 ![404 HTML Tempalte by Colorlib ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 20_23_44](https://github.com/user-attachments/assets/9d39391c-bb37-4af9-9618-6d87b79cc5f1)
