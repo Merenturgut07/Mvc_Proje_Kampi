@@ -17,6 +17,7 @@ namespace Mvc_Proje_Kampi.Controllers
 		// GET: WriterPanelMessage
 		MessageManager ms = new MessageManager(new EfMessageDal());
 		MessageValidator messageValidator = new MessageValidator();
+		Context c=new Context();
 		public ActionResult Inbox()
 		{
 			string p = (string)Session["WriterMail"];
@@ -34,6 +35,11 @@ namespace Mvc_Proje_Kampi.Controllers
 
 		public PartialViewResult WriterMessageListMenu()
 		{
+			string p = (string)Session["WriterMail"];
+			var gidensayisi = c.Messages.Count(x => x.ReciverMail==p).ToString();
+			ViewBag.d2 = gidensayisi;
+			var gelensayisi = c.Messages.Count(x => x.SenderMail == p).ToString();
+			ViewBag.d1 = gelensayisi;
 			return PartialView();
 		}
 
