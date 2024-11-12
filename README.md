@@ -63,9 +63,10 @@
 # Mesaj Kısımı
 * Bu kısımda kullanıcaya gelen mesaj, mesajın detayı ve gönderdiği mesajları(ve detaylarını ) görüntülüyebiliyoruz.Yeni mesaj işlemi de gerçekleştirebiliyoruz. Sisteme Giriş Yapan Yazarın mesaj sayısı ve yazara gelen mesaj sayısı da belirtilmektedir.
    <br/> <br/>
-![MvC Proje Kampı ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 18_30_20](https://github.com/user-attachments/assets/b1d3f9d5-7655-4784-aff1-a44b3c3e17d3)
-![MvC Proje Kampı ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 18_30_25](https://github.com/user-attachments/assets/c266412a-3b4c-4679-857b-f52d52a76f0d)
-![MvC Proje Kampı ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 18_30_33](https://github.com/user-attachments/assets/7870b255-689c-42c7-a440-536a0533841a)
+![MvC Proje Kampı - Profil 1 - Microsoft​ Edge 12 11 2024 21_22_47](https://github.com/user-attachments/assets/78ff2544-ed45-4ae2-8912-1bc699ce4bf4)
+![MvC Proje Kampı - Profil 1 - Microsoft​ Edge 12 11 2024 21_22_55](https://github.com/user-attachments/assets/2c42890f-76f8-4444-9c0c-668716f1e19f)
+![MvC Proje Kampı - Profil 1 - Microsoft​ Edge 12 11 2024 21_23_00](https://github.com/user-attachments/assets/597380fd-a059-4d88-bde9-e44a6119216a)
+![MvC Proje Kampı - Profil 1 - Microsoft​ Edge 13 11 2024 00_07_42](https://github.com/user-attachments/assets/0df81425-711c-4f6c-a45c-876c276b0fd3)
 
 # Yazılarım
 * Bu kısımda sisteme giriş yapan kullanıcının yazdığı yazıları görüntüleyebiliyoruz.
