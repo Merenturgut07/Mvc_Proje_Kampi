@@ -111,6 +111,12 @@
 ![AdminLTE 3 _ Dashboard 3 - Profil 1 - Microsoft​ Edge 21 08 2024 20_01_24](https://github.com/user-attachments/assets/8a171783-0d02-44a1-ba9f-39cc179356bd)
 ![AdminLTE 3 _ Dashboard 3 - Profil 1 - Microsoft​ Edge 21 08 2024 20_01_36](https://github.com/user-attachments/assets/117472d6-2d2d-4d9c-b330-362e58f49090)
 
+# Admin İstatistik Kısımı
+Basit İstatistiklerin yapıldığı kısım
+<br/> <br/>
+![AdminLTE 3 _ Dashboard 3 - Profil 1 - Microsoft​ Edge 12 11 2024 23_55_57](https://github.com/user-attachments/assets/0af36456-0a4f-478e-bf2d-ac3f0eb63add)
+
+
    # Admin Yetenek Kartım  Kısımı
   * Admin Yetenk Bilgilerinin tutlduğu ayrı bir sayfa
      <br/> <br/>
