@@ -12,6 +12,7 @@
 * Generic Yapı Kullanılarak kod tekrarı ve kalabalığı azaltılmıştır.
 *  Modal Popup Kullanılmıştır.(Popup üzerinden veri girişi yapılmaktadır)
 *  404 Sayfa Yapısı
+*  İstatistik Sayfası
 *  Rolleme işlemi (Sisteme authentication  olan kullanıcının bilgilerinin gelmesi)
 *  Sweat Alert
 *  Raporlama (herhangi bir tabloyu istediğimiz formata (word,exel,pdf gibi...) başlıklara çevirip çıktı almamızı sağlıyor)
