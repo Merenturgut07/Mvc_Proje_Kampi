@@ -28,7 +28,8 @@
 ![Recognize Personal Category Bootstrap Responsive Template _ Home __ W3layouts ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 18_16_13](https://github.com/user-attachments/assets/a09359e4-f84b-4f32-943d-3135f7eb22c5)
 ![Recognize Personal Category Bootstrap Responsive Template _ Home __ W3layouts ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 18_17_40](https://github.com/user-attachments/assets/a940de0f-aa92-4e7c-a606-0dd99e2e3ce5)
 ![Recognize Personal Category Bootstrap Responsive Template _ Home __ W3layouts ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 18_17_50](https://github.com/user-attachments/assets/88f420ac-f172-47de-8787-3f50aa9c6f1e)
-![Recognize Personal Category Bootstrap Responsive Template _ Home __ W3layouts ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 18_18_06](https://github.com/user-attachments/assets/37dd0c3a-14c6-49fb-906a-3b96cd6e0d47)
+![MvC Proje Kampı ve diğer 3 sayfa - Profil 1 - Microsoft​ Edge 26 10 2024 11_48_35](https://github.com/user-attachments/assets/503bc514-351d-4732-9fe4-7435912d875b)
+
 
 
 # Kullanıcı Giriş Paneli 
