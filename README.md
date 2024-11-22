@@ -90,7 +90,6 @@
      <br/> <br/>
      ![Mvc Kamp Login - Profil 1 - Microsoft​ Edge 21 08 2024 19_47_55](https://github.com/user-attachments/assets/fecd2ec8-137b-40df-9ac5-029a4d6ac90a)
     ![AdminLTE 3 _ Dashboard 3 ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 22 11 2024 11_58_11](https://github.com/user-attachments/assets/67d3b57a-b918-4e80-9871-79fb3855826f)
-![Mvc Kamp Login - Profil 1 - Microsoft​ Edge 21 08 2024 19_48_02](https://github.com/user-attachments/assets/6ea713c0-381e-440d-94f8-889ffb9f17ce)
 ![Mvc Kamp Login - Profil 1 - Microsoft​ Edge 21 08 2024 19_48_10](https://github.com/user-attachments/assets/fd79eb4b-1b55-41e8-8601-6a31d11d11b0)
 
    # Admin Yazarlar  Kısımı
