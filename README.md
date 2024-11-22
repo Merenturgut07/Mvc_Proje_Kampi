@@ -103,7 +103,9 @@
    # Admin Grafik  Kısımı
   * Grafik bilgileri tutulmaktadır.
      <br/> <br/>
-![AdminLTE 3 _ Dashboard 3 - Profil 1 - Microsoft​ Edge 21 08 2024 19_59_40](https://github.com/user-attachments/assets/a4b9b474-ee15-4aea-805e-a9b614be8c77)
+     
+![AdminLTE 3 _ Dashboard 3 ve diğer 3 sayfa - Profil 1 - Microsoft​ Edge 22 11 2024 12_04_11](https://github.com/user-attachments/assets/9e2749e8-f954-4217-906c-4d0566b2dc7c)
+
 
    # Admin Raporlar  Kısımı
   * herhangi bir tabloyu istediğimiz formata (word,exel,pdf gibi...) başlıklara çevirip çıktı almamızı sağlıyor
