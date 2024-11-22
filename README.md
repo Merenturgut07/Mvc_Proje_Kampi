@@ -117,7 +117,7 @@
 # Admin İstatistik Kısımı
 Basit İstatistiklerin yapıldığı kısım
 <br/> <br/>
-![AdminLTE 3 _ Dashboard 3 - Profil 1 - Microsoft​ Edge 12 11 2024 23_55_57](https://github.com/user-attachments/assets/0af36456-0a4f-478e-bf2d-ac3f0eb63add)
+![AdminLTE 3 _ Dashboard 3 ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 22 11 2024 11_57_25](https://github.com/user-attachments/assets/92175eec-edbf-4ab3-a18f-79019364c6d2)
 
 
    # Admin Yetenek Kartım  Kısımı
