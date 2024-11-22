@@ -1,6 +1,6 @@
 ## Mvc Proje Kampı 
 # Proje Amacı 
-*Yazar sisteme önce kayıt olur, ardından sisteme  giriş yapar. Giriş yaptıktan sonra yazar yeni bir başlık oluşturabilir. Ayrıca mevcut başlıklara bilgi ekleyebilir. Bilgi eklemek için ise mutlaka sisteme giriş yapmış olması gerekmektedir.Farklı kullanıcılara uygulama içerisinden   mesaj atabilir ,admine soru sorabilir 
+Yazar sisteme önce kayıt olur, ardından sisteme  giriş yapar. Giriş yaptıktan sonra yazar yeni bir başlık oluşturabilir. Ayrıca mevcut başlıklara bilgi ekleyebilir. Bilgi eklemek için ise mutlaka sisteme giriş yapmış olması gerekmektedir.Farklı kullanıcılara uygulama içerisinden   mesaj atabilir ,admine soru sorabilir 
 # Kullanılan Teknolojiler
 * Asp.Net Mvc5 Teknolojisiyle N katmanlı hazırlanmıştır. Solid prensiplerine uygun bir şekilde hazırlanmıştır.
 * Tasarım deseni olarak Repository Design Pattern kullanıldı.
