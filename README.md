@@ -138,9 +138,10 @@ Basit İstatistiklerin yapıldığı kısım
 # Admin Yetkilendirme İşlemi
 *Yeni admin girişi , admin yetkisnin değiştirilmesi ,admin silme işlemleri yapılmaktadır  
 <br/> <br/>
-![AdminLTE 3 _ Dashboard 3 ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 26 10 2024 11_18_48](https://github.com/user-attachments/assets/3b95de31-8d7c-4663-81c1-9b37c3a7642b)
-![AdminLTE 3 _ Dashboard 3 ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 26 10 2024 11_22_06](https://github.com/user-attachments/assets/f9e765bd-0d42-4bea-9419-6e1b90b4dce3)
-![AdminLTE 3 _ Dashboard 3 ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 26 10 2024 11_19_01](https://github.com/user-attachments/assets/ec1cdaea-7b32-4b54-b49d-bc2adf93198d)
+![AdminLTE 3 _ Dashboard 3 ve diğer 3 sayfa - Profil 1 - Microsoft​ Edge 22 11 2024 12_08_07](https://github.com/user-attachments/assets/63fb4bc2-8434-49e6-8b8e-22cb3c9b5db3)
+![AdminLTE 3 _ Dashboard 3 ve diğer 3 sayfa - Profil 1 - Microsoft​ Edge 22 11 2024 12_08_13](https://github.com/user-attachments/assets/fa44565e-805f-4a74-8376-ba2fbcb9bb56)
+![AdminLTE 3 _ Dashboard 3 ve diğer 3 sayfa - Profil 1 - Microsoft​ Edge 22 11 2024 12_08_20](https://github.com/user-attachments/assets/48abfa5a-38f7-4466-87d2-3d4bac07ec02)
+
 
 
 # Hata Sayfası
