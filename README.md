@@ -12,6 +12,7 @@
 * Generic Yapı Kullanılarak kod tekrarı ve kalabalığı azaltılmıştır.
 *  Modal Popup Kullanılmıştır.(Popup üzerinden veri girişi yapılmaktadır)
 *  404 Sayfa Yapısı
+*  İstatistik Sayfası
 *  Rolleme işlemi (Sisteme authentication  olan kullanıcının bilgilerinin gelmesi)
 *  Sweat Alert
 *  Raporlama (herhangi bir tabloyu istediğimiz formata (word,exel,pdf gibi...) başlıklara çevirip çıktı almamızı sağlıyor)
@@ -27,7 +28,9 @@
 ![Recognize Personal Category Bootstrap Responsive Template _ Home __ W3layouts ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 18_16_13](https://github.com/user-attachments/assets/a09359e4-f84b-4f32-943d-3135f7eb22c5)
 ![Recognize Personal Category Bootstrap Responsive Template _ Home __ W3layouts ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 18_17_40](https://github.com/user-attachments/assets/a940de0f-aa92-4e7c-a606-0dd99e2e3ce5)
 ![Recognize Personal Category Bootstrap Responsive Template _ Home __ W3layouts ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 18_17_50](https://github.com/user-attachments/assets/88f420ac-f172-47de-8787-3f50aa9c6f1e)
-![Recognize Personal Category Bootstrap Responsive Template _ Home __ W3layouts ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 18_18_06](https://github.com/user-attachments/assets/37dd0c3a-14c6-49fb-906a-3b96cd6e0d47)
+![AdminLTE 3 _ Dashboard 3 ve diğer 3 sayfa - Profil 1 - Microsoft​ Edge 22 11 2024 12_22_46](https://github.com/user-attachments/assets/8286dfb5-a13f-458b-9e5e-0fd6785f6cb5)
+
+
 
 
 # Kullanıcı Giriş Paneli 
@@ -35,7 +38,7 @@
   <br/> <br/>
 ![MvC Proje Kampı ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 15_16_41](https://github.com/user-attachments/assets/7947e4dd-49c2-4960-9b6d-78dcb03e0e30)
 
-# Profilim Kısımı 
+# Yazar Paneli Profilim Kısımı 
 * Sisteme giriş yapan kullanıcının bilgileri ,bu alanda  profil bilgilerini güncellenmektedir.
  <br/> <br/>
 ![Recognize Personal Category Bootstrap Responsive Template _ Home __ W3layouts ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 18_19_46](https://github.com/user-attachments/assets/45f893fd-6a13-4e81-8f53-659b39bc22de)
@@ -60,11 +63,12 @@
 ![MvC Proje Kampı ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 18_24_28](https://github.com/user-attachments/assets/f0f12266-ec76-4cc3-8f4c-de1337164c86)
 
 # Mesaj Kısımı
-* Bu kısımda kullanıcaya gelen mesaj ve gönderdiği mesajları görüntülüyebiliyoruz. Ayrıca yeni mesaj işlemi de gerçekleştirebiliyoruz
+* Bu kısımda kullanıcaya gelen mesaj, mesajın detayı ve gönderdiği mesajları(ve detaylarını ) görüntülüyebiliyoruz.Yeni mesaj işlemi de gerçekleştirebiliyoruz. Sisteme Giriş Yapan Yazarın mesaj sayısı ve yazara gelen mesaj sayısı da belirtilmektedir.
    <br/> <br/>
-![MvC Proje Kampı ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 18_30_20](https://github.com/user-attachments/assets/b1d3f9d5-7655-4784-aff1-a44b3c3e17d3)
-![MvC Proje Kampı ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 18_30_25](https://github.com/user-attachments/assets/c266412a-3b4c-4679-857b-f52d52a76f0d)
-![MvC Proje Kampı ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 21 08 2024 18_30_33](https://github.com/user-attachments/assets/7870b255-689c-42c7-a440-536a0533841a)
+![MvC Proje Kampı - Profil 1 - Microsoft​ Edge 12 11 2024 21_22_47](https://github.com/user-attachments/assets/78ff2544-ed45-4ae2-8912-1bc699ce4bf4)
+![MvC Proje Kampı - Profil 1 - Microsoft​ Edge 12 11 2024 21_22_55](https://github.com/user-attachments/assets/2c42890f-76f8-4444-9c0c-668716f1e19f)
+![MvC Proje Kampı - Profil 1 - Microsoft​ Edge 12 11 2024 21_23_00](https://github.com/user-attachments/assets/597380fd-a059-4d88-bde9-e44a6119216a)
+![MvC Proje Kampı - Profil 1 - Microsoft​ Edge 13 11 2024 00_07_42](https://github.com/user-attachments/assets/0df81425-711c-4f6c-a45c-876c276b0fd3)
 
 # Yazılarım
 * Bu kısımda sisteme giriş yapan kullanıcının yazdığı yazıları görüntüleyebiliyoruz.
@@ -87,7 +91,7 @@
   * Başlık silme ,ekleme ve güncelleme işlemleri yapılmaktadır
      <br/> <br/>
      ![Mvc Kamp Login - Profil 1 - Microsoft​ Edge 21 08 2024 19_47_55](https://github.com/user-attachments/assets/fecd2ec8-137b-40df-9ac5-029a4d6ac90a)
-![Mvc Kamp Login - Profil 1 - Microsoft​ Edge 21 08 2024 19_48_02](https://github.com/user-attachments/assets/6ea713c0-381e-440d-94f8-889ffb9f17ce)
+    ![AdminLTE 3 _ Dashboard 3 ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 22 11 2024 11_58_11](https://github.com/user-attachments/assets/67d3b57a-b918-4e80-9871-79fb3855826f)
 ![Mvc Kamp Login - Profil 1 - Microsoft​ Edge 21 08 2024 19_48_10](https://github.com/user-attachments/assets/fd79eb4b-1b55-41e8-8601-6a31d11d11b0)
 
    # Admin Yazarlar  Kısımı
@@ -100,7 +104,9 @@
    # Admin Grafik  Kısımı
   * Grafik bilgileri tutulmaktadır.
      <br/> <br/>
-![AdminLTE 3 _ Dashboard 3 - Profil 1 - Microsoft​ Edge 21 08 2024 19_59_40](https://github.com/user-attachments/assets/a4b9b474-ee15-4aea-805e-a9b614be8c77)
+     
+![AdminLTE 3 _ Dashboard 3 ve diğer 3 sayfa - Profil 1 - Microsoft​ Edge 22 11 2024 12_04_11](https://github.com/user-attachments/assets/9e2749e8-f954-4217-906c-4d0566b2dc7c)
+
 
    # Admin Raporlar  Kısımı
   * herhangi bir tabloyu istediğimiz formata (word,exel,pdf gibi...) başlıklara çevirip çıktı almamızı sağlıyor
@@ -108,6 +114,12 @@
 ![AdminLTE 3 _ Dashboard 3 - Profil 1 - Microsoft​ Edge 21 08 2024 20_01_16](https://github.com/user-attachments/assets/f7d1d1de-54a8-47c0-803b-0f4f0124c097)
 ![AdminLTE 3 _ Dashboard 3 - Profil 1 - Microsoft​ Edge 21 08 2024 20_01_24](https://github.com/user-attachments/assets/8a171783-0d02-44a1-ba9f-39cc179356bd)
 ![AdminLTE 3 _ Dashboard 3 - Profil 1 - Microsoft​ Edge 21 08 2024 20_01_36](https://github.com/user-attachments/assets/117472d6-2d2d-4d9c-b330-362e58f49090)
+
+# Admin İstatistik Kısımı
+Basit İstatistiklerin yapıldığı kısım
+<br/> <br/>
+![AdminLTE 3 _ Dashboard 3 ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 22 11 2024 11_57_25](https://github.com/user-attachments/assets/92175eec-edbf-4ab3-a18f-79019364c6d2)
+
 
    # Admin Yetenek Kartım  Kısımı
   * Admin Yetenk Bilgilerinin tutlduğu ayrı bir sayfa
@@ -127,9 +139,10 @@
 # Admin Yetkilendirme İşlemi
 *Yeni admin girişi , admin yetkisnin değiştirilmesi ,admin silme işlemleri yapılmaktadır  
 <br/> <br/>
-![AdminLTE 3 _ Dashboard 3 ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 26 10 2024 11_18_48](https://github.com/user-attachments/assets/3b95de31-8d7c-4663-81c1-9b37c3a7642b)
-![AdminLTE 3 _ Dashboard 3 ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 26 10 2024 11_22_06](https://github.com/user-attachments/assets/f9e765bd-0d42-4bea-9419-6e1b90b4dce3)
-![AdminLTE 3 _ Dashboard 3 ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 26 10 2024 11_19_01](https://github.com/user-attachments/assets/ec1cdaea-7b32-4b54-b49d-bc2adf93198d)
+![AdminLTE 3 _ Dashboard 3 ve diğer 3 sayfa - Profil 1 - Microsoft​ Edge 22 11 2024 12_08_07](https://github.com/user-attachments/assets/63fb4bc2-8434-49e6-8b8e-22cb3c9b5db3)
+![AdminLTE 3 _ Dashboard 3 ve diğer 3 sayfa - Profil 1 - Microsoft​ Edge 22 11 2024 12_08_13](https://github.com/user-attachments/assets/fa44565e-805f-4a74-8376-ba2fbcb9bb56)
+![AdminLTE 3 _ Dashboard 3 ve diğer 3 sayfa - Profil 1 - Microsoft​ Edge 22 11 2024 12_08_20](https://github.com/user-attachments/assets/48abfa5a-38f7-4466-87d2-3d4bac07ec02)
+
 
 
 # Hata Sayfası
